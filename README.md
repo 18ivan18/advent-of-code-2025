@@ -8,3 +8,4 @@
 - [Day 4: Printing Department](./solutions/04)
 - [Day 5: Cafeteria](./solutions/05)
 - [Day 6: Trash Compactor](./solutions/06)
+- [Day 7: Laboratories](./solutions/07)
