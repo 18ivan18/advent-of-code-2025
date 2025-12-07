@@ -6,3 +6,4 @@
 - [Day 2: Gift Shop](./solutions/02)
 - [Day 3: Lobby](./solutions/03)
 - [Day 4: Printing Department](./solutions/04)
+- [Day 5: Cafeteria](./solutions/05)
