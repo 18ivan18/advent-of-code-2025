@@ -9,3 +9,4 @@
 - [Day 5: Cafeteria](./solutions/05)
 - [Day 6: Trash Compactor](./solutions/06)
 - [Day 7: Laboratories](./solutions/07)
+- [Day 8: Playground](./solutions/08)
