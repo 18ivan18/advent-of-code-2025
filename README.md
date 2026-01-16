@@ -12,3 +12,4 @@
 - [Day 8: Playground](./solutions/08)
 - [Day 9: Movie Theater](./solutions/9)
 - [Day 10: Factory](./solutions/10)
+- [y 11: Reactor](./solutions/11)
