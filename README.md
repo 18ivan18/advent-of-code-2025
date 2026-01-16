@@ -13,3 +13,4 @@
 - [Day 9: Movie Theater](./solutions/9)
 - [Day 10: Factory](./solutions/10)
 - [Day 11: Reactor](./solutions/11)
+- [Day 12: Christmas Tree Farm](./solutions/12)
